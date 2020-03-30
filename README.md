@@ -3,6 +3,7 @@
 A bash ping script with some extra features including:
 * Colored output for up / down ping responses
 * Log files are saved with date & time stamps inside nested folders by date
+* Log files are dynamically generated, so if the ongoing ping rolls over into a new day, the target log file changes automatically
 
 ![Ping example](images/ping-example.png)
 
