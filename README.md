@@ -23,7 +23,7 @@ logdir_base=~/ping_logs
 
 Add symbolic link to your PATH (optional but recommended)
 ```bash
-ln -s ~/location/of/pn.sh ~/.local/bin
+ln -s ~/location/of/pn.sh ~/.local/bin/pn
 ```
 
 ## Usage
